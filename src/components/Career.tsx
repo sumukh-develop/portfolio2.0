@@ -5,8 +5,8 @@ const Career = () => {
     <div className="career-section section-container">
       <div className="career-container">
         <h2>
-          My career <span>&</span>
-          <br /> experience
+          My Education <span>&</span>
+          <br /> Experience
         </h2>
         <div className="career-info">
           <div className="career-timeline">
@@ -15,58 +15,60 @@ const Career = () => {
           <div className="career-info-box">
             <div className="career-info-in">
               <div className="career-role">
-                <h4>Co-Founder</h4>
-                <h5>CallHQ.ai</h5>
+                <h4>Tech Intern</h4>
+                <h5>Gisul Software Services</h5>
               </div>
               <h3>NOW</h3>
             </div>
             <p>
-              Building CallHQ.ai, a voice AI platform for
-              automating customer calls, support, and conversions.
+              Currently working as a Tech Intern at Gisul Software Services, gaining 
+              hands-on experience in software development, working on real-world projects, 
+              and contributing to production-ready applications using modern technologies 
+              and development practices.
             </p>
           </div>
           <div className="career-info-box">
             <div className="career-info-in">
               <div className="career-role">
-                <h4>Adobe</h4>
-                <h5>6+ years · Noida</h5>
+                <h4>Engineering in Computer Science</h4>
+                <h5>8.00 CGPA</h5>
               </div>
-              <h3>2017–24</h3>
+              <h3>2022–26</h3>
             </div>
             <p>
-              Senior Lead Software Engineer (Feb 2024 – May 2024). Lead Software
-              Engineer (Feb 2021 – Feb 2024). Software Engineer II (Dec 2017 –
-              Feb 2021): internationalization, globalization, and localization for
-              Adobe Technical Communication Suite; functional and linguistic testing
-              strategy; in-house tooling; collaboration with product and engineering
-              for high-quality localized releases.
+              Pursuing Bachelor's degree in Computer Science Engineering with a strong 
+              academic record of 8.00 CGPA. Focused on software development, data structures, 
+              algorithms, web technologies, cloud computing, and modern development practices. 
+              Building practical skills through projects and internships.
             </p>
           </div>
           <div className="career-info-box">
             <div className="career-info-in">
               <div className="career-role">
-                <h4>Consultant</h4>
-                <h5>Genpact Headstrong </h5>
+                <h4>Pre-University</h4>
+                <h5>92%</h5>
               </div>
-              <h3>2016–17</h3>
+              <h3>2020–22</h3>
             </div>
             <p>
-              Sep 2016 – Nov 2017. Developed and maintained WCF services consumed
-              by the UI; deployment support across environments; NUnit tests and
-              coverage; bug fixes from QA and users; database work.
+              Completed Pre-University education with 92%, focusing on Physics, Chemistry, 
+              and Mathematics. Developed strong analytical and problem-solving skills that 
+              laid the foundation for engineering studies. Actively participated in coding 
+              competitions and technical workshops.
             </p>
           </div>
           <div className="career-info-box">
             <div className="career-info-in">
               <div className="career-role">
-                <h4>Sf Engineer</h4>
-                <h5>Infogain</h5>
+                <h4>High School</h4>
+                <h5>94%</h5>
               </div>
-              <h3>2013-16</h3>
+              <h3>2019–20</h3>
             </div>
             <p>
-              Software engineering across enterprise projects, contributing to
-              design, development, and delivery of business applications.
+              Completed High School with an outstanding 94%, demonstrating academic excellence 
+              across all subjects. Built a strong foundation in mathematics and sciences, 
+              while developing an early interest in technology and programming.
             </p>
           </div>
         </div>
